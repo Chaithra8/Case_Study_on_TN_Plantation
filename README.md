@@ -1,2 +1,2 @@
 # Case_Study_on_TN_Plantation
-![plot](
+![plot](./Case_Study_on_TN_Plantation/extract_data.png)
