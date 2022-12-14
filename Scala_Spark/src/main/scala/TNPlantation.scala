@@ -44,7 +44,7 @@ object TNPlantation{
     val r_df = clean_rubber(rubber_path)
     b_df.show()
     r_df.printSchema()
-//pp
+
     println(">>>>>>>>>>>>>>>>>>>>>> Union of Bamboo, Tea, Rubber dataframe <<<<<<<<<<<<<<<<<<,")
     val all_df = b_df.union(t_df).union(r_df)
     all_df.show()
