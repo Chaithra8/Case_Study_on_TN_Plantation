@@ -25,9 +25,9 @@ object TNPlantation{
 
   def main(args: Array[String]) {
 
-    val bamboo_path = "E:/Chaithra_Learning/Spark/bamboo-plantation-15-16.txt"
-    val tea_path = "E:/Chaithra_Learning/Spark/tea-plantation-15-16.txt"
-    val rubber_path = "E:/Chaithra_Learning/Spark/rubber-plantation-15-16.txt"
+    val bamboo_path = "Path to bamboo-plantation-15-16.txt"
+    val tea_path = "Path to tea-plantation-15-16.txt"
+    val rubber_path = "Path to rubber-plantation-15-16.txt"
 
 
     println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Cleaning Bamboo Dataframe <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<")
